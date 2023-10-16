@@ -1,0 +1,5 @@
+Result of both the first and second files : Hello, this is first Text File, Hello, This is Second Text file
+ 
+From here starts the appended file : 
+ Result of both the first and second files : Hello, this is first Text File, Hello, This is Second Text file
+  
