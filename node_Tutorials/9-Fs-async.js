@@ -7,6 +7,7 @@ readFile("./PathContent/first.txt", "utf8", (err, result) => {
     return;
   }
   const first = result;
+  // CALL BACK HELL
 
   readFile("./PathContent/second.txt", "utf-8", (err, result) => {
     if (err) {
