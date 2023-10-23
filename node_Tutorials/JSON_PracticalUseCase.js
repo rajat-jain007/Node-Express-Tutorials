@@ -23,4 +23,3 @@ fs.readFile("./fileName.json", "utf-8", (err, data) => {
   // Converting to original Object
   console.log(jsonToObj);
 });
-git

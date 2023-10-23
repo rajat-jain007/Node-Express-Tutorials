@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1195,
+    "uid": "f40ac9e8-3ed7-4eee-9ef7-1a00879e02bb",
+    "password": "Z8uftonJU7",
+    "first_name": "Prince",
+    "last_name": "Toy",
+    "username": "prince.toy",
+    "email": "prince.toy@email.com",
+    "avatar": "https://robohash.org/perferendissapienteodit.png?size=300x300&set=set1",
+    "gender": "Genderqueer",
+    "phone_number": "+33 991-066-9365 x285",
+    "social_insurance_number": "772069902",
+    "date_of_birth": "1978-11-13",
+    "employment": {
+      "title": "Chief Assistant",
+      "key_skill": "Communication"
+    },
+    "address": {
+      "city": "Sterlingborough",
+      "street_name": "Quigley Land",
+      "street_address": "638 Hahn Streets",
+      "zip_code": "25177",
+      "state": "Mississippi",
+      "country": "United States",
+      "coordinates": {
+        "lat": 23.363678933507188,
+        "lng": -106.33257615411374
+      }
+    },
+    "credit_card": {
+      "cc_number": "5277-3880-5751-4972"
+    },
+    "subscription": {
+      "plan": "Premium",
+      "status": "Active",
+      "payment_method": "Cash",
+      "term": "Monthly"
+    }
+  }
+]
